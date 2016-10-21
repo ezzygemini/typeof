@@ -1,0 +1,9 @@
+{
+  "name": "typeof",
+  "version": "0.0.1",
+  "description": "A true javascript typeof",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ezzygemini/typeof.git"
+  }
+}
